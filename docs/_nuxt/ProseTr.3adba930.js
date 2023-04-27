@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{o,k as t,r as s}from"./entry.3e01e84d.js";const n={};function c(r,a){return o(),t("tr",null,[s(r.$slots,"default")])}const _=e(n,[["render",c]]);export{_ as default};
