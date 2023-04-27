@@ -4,5 +4,5 @@ export default defineNuxtConfig({
         '@nuxt/content',
     ],
 
-    ssr: false,
+    // ssr: false,s
 })
