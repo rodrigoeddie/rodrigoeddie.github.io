@@ -6,8 +6,10 @@ useHead({
 
 <template>
   <NuxtLayout name="base">
-    Oi
+    <div class="container">
+      Oi
+    </div>
   </NuxtLayout>
 </template>
 
-<style scoped></style>
+<style scoped lang="scss"></style>

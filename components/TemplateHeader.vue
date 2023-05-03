@@ -1,9 +1,9 @@
 <script lang="ts" setup></script>
 
 <template>
-  <div>
+  <div class="container">
     <h1>
-      <NuxtLink to="/">Rodrigo Eddie</NuxtLink>
+      <NuxtLink class="logo" to="/">Rodrigo Eddie</NuxtLink>
     </h1>
 
     <nav>
@@ -12,4 +12,8 @@
   </div>
 </template>
 
-<style scoped></style>
+<style lang="scss" scoped>
+  .logo {
+    color: $primary
+  }
+</style>
