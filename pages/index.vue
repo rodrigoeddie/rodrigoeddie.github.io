@@ -5,9 +5,10 @@ useHead({
 </script>
 
 <template>
-  <NuxtLayout name="base">
+  <!-- <NuxtLayout name="base"> -->
+  <NuxtLayout>
     <div class="container">
-      Oi
+      Logo mais...
     </div>
   </NuxtLayout>
 </template>

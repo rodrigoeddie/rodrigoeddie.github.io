@@ -44,6 +44,7 @@ console.log(contents);
     .glossary-item {
       display: none;
 
+      .subtitle,
       p {
         padding-top: 15px;
       }
