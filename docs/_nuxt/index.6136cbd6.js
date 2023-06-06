@@ -1,1 +1,0 @@
-import{_ as t}from"./layout.edfab8cd.js";import{a,s as o,o as n,c as s,w as _,a1 as c}from"./entry.3e01e84d.js";const x=a({__name:"index",setup(r){return o({title:"Home"}),(m,p)=>{const e=t;return n(),s(e,{name:"base"},{default:_(()=>[c(" Oi ")]),_:1})}}});export{x as default};
