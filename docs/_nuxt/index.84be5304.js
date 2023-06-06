@@ -1,0 +1,1 @@
+import{_ as o}from"./layout.358df709.js";import{h as t,e as a,o as n,c as s,q as _,R as c}from"./entry.fb076c02.js";const r=c("div",{class:"container"}," Logo mais... ",-1),l=t({__name:"index",setup(i){return a({title:"Home"}),(m,p)=>{const e=o;return n(),s(e,null,{default:_(()=>[r]),_:1})}}});export{l as default};
