@@ -8,7 +8,7 @@ useHead({
   <!-- <NuxtLayout name="base"> -->
   <NuxtLayout>
     <div class="container">
-      Logo mais...
+      Logo mais... 123...
     </div>
   </NuxtLayout>
 </template>
