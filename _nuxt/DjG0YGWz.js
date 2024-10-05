@@ -1,0 +1,1 @@
+import{_ as o}from"./D8Qw1hHZ.js";import{i as a,u as n,o as s,g as _,w as r,a as u}from"./DU7wmOpA.js";const p=a({__name:"index",setup(c){return n({title:"Home"}),(i,e)=>{const t=o;return s(),_(t,null,{default:r(()=>e[0]||(e[0]=[u("div",{class:"container"}," hello ",-1)])),_:1})}}});export{p as default};
