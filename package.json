@@ -2,7 +2,7 @@
   "name": "nuxt-app",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
+    "build": "npx nuxt build --preset github_pages",
     "dev": "nuxt dev",
     "generate": "nuxt generate && cp -r -p .output/public/* docs",
     "preview": "nuxt preview",
