@@ -5,7 +5,7 @@
     <TemplateHeader />
     <slot />
     <TemplateFooter />
-    <ModalGlossary />
+    <!-- <ModalGlossary /> -->
   </div>
 </template>
 
