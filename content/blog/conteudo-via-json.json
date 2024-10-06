@@ -1,6 +1,6 @@
 
 {
-    "active": true,
+    "active": false,
     "title": "Conteúdo via JSON",
     "description": "Conteúdo via JSON",
     "category": "json"

@@ -3,6 +3,7 @@ active: true
 title: 'Conteúdo via Markdown'
 description: 'Conteúdo via Markdown'
 category: 'mark'
+date: '24-10-05'
 ---
 <!-- Content of the page -->
 

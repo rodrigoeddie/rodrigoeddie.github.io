@@ -13,7 +13,11 @@ const posts = await queryContent('blog')
     <div class="container">
       <div class="wrap-content" v-for="item in posts">
           <NuxtLink :to="item._path">
-            {{ item.title }}
+            <h1>{{ item.title }}</h1><br>
+            <p>{{ item.description }}</p>
+            <br>
+            &#128197; {{ item.date }}
+
           </NuxtLink>
       </div>
     </div>
